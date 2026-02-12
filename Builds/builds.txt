@@ -1,7 +1,7 @@
 
 #id="plugin.program.daveyclanwizard"
 #version="1.0.0"
-#zip="https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/plugin.program.daveyclanwizard/plugin.program.daveyclanwizard-1.0.0.zip"
+#zip="https://raw.githubusercontent.com/daveyclan/zips/master/_zip/plugin.program.daveyclanwizard/plugin.program.daveyclanwizard-1.0.0.zip"
 
 #############################################################################################################
 name="[COLOR Orchid]DaveyClan[/COLOR]"
@@ -228,4 +228,5 @@ fanart=">https://funstersplace.net/images/smoking.jpg"
 preview="http://"
 adult="no"
 info="http://"
+
 description="Smoking Kodi 21 Build"
