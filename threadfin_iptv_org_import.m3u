@@ -1,0 +1,135 @@
+#EXTM3U
+# Generated from current playlist + iptv-org public direct streams
+
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-soccer-plus-hz-us.png" group-title="> USA Sport <", Fox Soccer Plus
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="> World Entertainment <", ABC USA
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC America (East).us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/Q3nlI0z.png" group-title="> World Entertainment <", BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="> UK Entertainment <", BBC Four UK
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-uk.png" group-title="> UK Entertainment <", BBC Three UK
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png" group-title="> UK Entertainment <", BBC Two UK
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/xMRD76A.png" group-title="> World Entertainment <", BET Network
+http://41.205.93.154/BET-EN/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/uqcCFiU.png" group-title="> World Entertainment <", CBS USA
+http://stream.cammonitorplus.net/1783/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="> World Entertainment <", CNBC
+https://gpuserver3.tier1streams.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="> UK Entertainment <", Channel 4 UK
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="> UK Entertainment <", Channel 5 UK
+https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8
+
+#EXTINF:-1 tvg-id="The Disney Channel (East).us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/5SpAvuk.png" group-title="> Kids Entertainment <", Disney Channel
+http://84.54.128.52:9090/play/3006/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="> World Entertainment <", FOX USA
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox News.us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/U5f4tZJ.png" group-title="> World Entertainment <", Fox News
+http://41.205.77.102/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="History (East).us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/Es2KChJ.png" group-title="> World Entertainment <", History TV
+http://45.190.28.50/HISTORY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="> UK Entertainment <", ITV 2 UK
+http://45.153.96.44:8007
+
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/M6GD6p1.png" group-title="> UK Entertainment <", ITV 3 UK
+http://45.153.96.44:8008
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="> UK Entertainment <", ITV 4 UK
+http://45.153.96.44:8009
+
+#EXTINF:-1 tvg-id="Lifetime Movies (East).us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/ylgUOon.png" group-title="> World Entertainment <", Lifetime Movies Network
+https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon (East).us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/0j9uS1c.png" group-title="> Kids Entertainment <", NICK
+http://103.72.101.252:8080/live/1226.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV.us" tvg-name="" tvg-logo="https://loopaddon.uk/art/channels/OQGtADo.png" group-title="> World Entertainment <", National Geographic
+http://167.250.126.140:7777/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="> World Entertainment <", USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="> World Sport <", ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="Big Ten Network HDTV (National).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="> USA Sport <", BIG TEN Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="> USA Sport <", ESPN USA
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="> USA Sport <", ESPNU USA
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="> USA Sport <", Fox Sports 1 USA
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="> USA Sport <", Fox Sports 2 USA
+https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+
+#EXTINF:-1 tvg-id="The Golf Channel.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" group-title="> USA Sport <", Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB Network HD.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="> USA Sport <", MLB Network
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="> USA Sport <", NBA TV USA
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> USA Sport <", NBC USA
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-id="The NFL Network.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="> USA Sport <", NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="SEC Network.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sec-network-us.png" group-title="> USA Sport <", SEC Network USA
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="> USA Sport <", TSN1
+http://40.160.24.55/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN2HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="> USA Sport <", TSN2
+http://40.160.24.55/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN3HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title="> USA Sport <", TSN3
+http://40.160.24.55/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN4HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="> USA Sport <", TSN4
+http://40.160.24.55/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN5HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="> USA Sport <", TSN5
+http://40.160.24.55/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="> USA Sport <", Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="> UK Sport <", Premier Sports 2 UK
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="> EPL Channels <", Premier Sports 2 UK
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> EPL Channels <", NBC USA
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="> EPL Channels <", USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+
